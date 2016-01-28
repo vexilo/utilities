@@ -1,7 +1,7 @@
 <?php
-namespace Models\Traits;
+namespace Vexilo\Utilities\Models\Traits;
 
-use \Extensions\VexiloCollection;
+use Vexilo\Utilities\Extensions\VexiloCollection;
 
 trait ToFormSelectArrayTrait
 {

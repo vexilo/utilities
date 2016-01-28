@@ -1,8 +1,8 @@
 <?php
 
-namespace Extensions;
+namespace Vexilo\Utilities\Extensions;
 
-use \Illuminate\Database\Eloquent\Collection;
+use Illuminate\Database\Eloquent\Collection;
 
 class VexiloCollection extends Collection
 {
