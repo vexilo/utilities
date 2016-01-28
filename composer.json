@@ -1,0 +1,15 @@
+{
+    "name": "vexilo/utilities",
+    "description": "Some extensions for use in Laravel",
+    "keywords": ["vexilo", "laravel", "javascript"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alfonso Bribiesca",
+            "email": "alfonso@vexilo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
