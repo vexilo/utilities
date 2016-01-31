@@ -9,9 +9,9 @@ trait ToFormSelectArrayTrait
      * Override the new Collection method with a custmo collection
      *
      * @param  array  $models
-     * @return \Extensions\VexiloCollection
+     * @return Vexilo\Utilities\Extensions\VexiloCollection
      */
-    public function newCollection(array $models = [])
+    public function newCollection(array $models = array())
     {
         return new VexiloCollection($models);
     }
